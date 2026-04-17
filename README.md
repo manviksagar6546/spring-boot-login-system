@@ -35,7 +35,9 @@ This project is a basic authentication system built using Spring Boot and Spring
 ##Screen of working page
 <img width="725" height="616" alt="Screenshot 2026-04-17 001903" src="https://github.com/user-attachments/assets/b71b61de-1f81-4f18-88fa-d4aac55a095f" />
 
-<img width="711" height="524" alt="Screenshot 2026-04-17 001917" src="https://github.com/user-attachments/assets/48179910-0f4c-4dfe-b979-0fdcbeb03b78" />
+<img width="711" height="524" alt="Screenshot 2026-04-17 001917" src="https://github.com/user-attachments/assets/466bb909-c464-409a-8368-bd2aa6d18ec6" />
+
+
 
 
 
